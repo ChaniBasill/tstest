@@ -171,3 +171,4 @@ mtでのhome_url()
 magentoのfunction一覧
 http://freegento.com/doc/main.html
 
+gittest
